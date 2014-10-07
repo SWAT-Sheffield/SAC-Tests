@@ -1,11 +1,11 @@
 &testlist /
 
 &filelist
-	filenameini='results/3D_tube_modif_200_100_100_np010202.ini'
+	filenameini='../../mhd/fluxtube/3D_tube_128_128_128_np020202.ini'
 
 	typefileini='binary'
-	filename=   'results/3D_tube_200_100_100_vertical.log',
-		    'results/3D_tube_200_100_100_vertical.out'
+	filename=   '../../mhd/fluxtube/3D_tube_128_128_128_np020202.log',
+		    '../../mhd/fluxtube/3D_tube_128_128_128_np020202.out'
 	typefileout='binary'
         fullgridout= T
         fullgridini= T
